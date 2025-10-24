@@ -9,7 +9,7 @@ The goal is to survive as long as possible without colliding!
 
 ## Gameplay Preview
 
-![Gameplay Screenshot](82f7a5d8-06c4-4f2e-bc12-7624c9ebad40.png)
+![Gameplay Screenshot](82f7a5d8-06c4-4f2e-bc12-7624c9ebad40.jpg)
 
 ---
 
